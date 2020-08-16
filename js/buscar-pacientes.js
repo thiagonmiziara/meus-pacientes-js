@@ -4,7 +4,7 @@ botaoAdicionar.addEventListener("click", function() {
 
     var xhr = new XMLHttpRequest();
 
-    xhr.open("GET", "http://api-pacientes.herokuapp.com/pacientes");
+    xhr.open("GET", "https://api-pacientes.herokuapp.com/pacientes");
 
     xhr.addEventListener("load", function() {
 
