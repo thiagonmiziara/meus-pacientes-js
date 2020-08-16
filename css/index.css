@@ -146,3 +146,17 @@ button:disabled {
     opacity: 0;
     transition: 0.5s;
 }
+
+#filtrar-tabela {
+    width: 200px;
+    height: 35px;
+    font-weight: bold;
+    background-color: rgb(204, 204, 204);
+    border: none;
+    margin-bottom: 15px;
+}
+
+#filtre {
+    font-weight: bold;
+    color: black;
+}
